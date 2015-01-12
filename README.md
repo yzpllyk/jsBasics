@@ -1,2 +1,2 @@
 # jsBasics
-JavaScript Basics 
+JavaScript Basics for nanoDegree
